@@ -480,3 +480,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+/lab1/report/
+/lab1/README.md
+/lab1/SelfCheck.cs
+/lab1/checks/
